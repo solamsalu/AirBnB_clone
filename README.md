@@ -1,1 +1,1 @@
-This is the read me file for the AirBnB Console Team project.
+This is the first AirBnB Clone Team project.
