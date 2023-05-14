@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 """Unit tests for the `amenity` module.
+
+Unittest classes:
+    TestAmenity_instantiation
+    TestAmenity_save
+    TestAmenity_to_dict
 """
 import os
 import models
